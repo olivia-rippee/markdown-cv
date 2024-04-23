@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: Olivia Rippee's CV
 ---
 # David Whipp
 Professor, University of Helsinki
